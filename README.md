@@ -4,7 +4,7 @@ This repo is for the 'Random Quote Machine' exercise from the Front End Developm
 
 You can view this project on my github pages: https://duncan-s-white.github.io/random-quote-machine/
 
-This was my first ever react project, it is written from scratch, adding react with a `<script>` tag not using the `create-react-app` command. 
+This was my first ever React project, it is written from scratch It includes React and other dependencies with a `<script>` tag, not using the `create-react-app` command. 
 
 It uses:
 
