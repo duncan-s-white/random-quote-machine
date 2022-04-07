@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-This repo is for the 'Random Quote Machine' exercise from the Front End Development Libraries Projects on [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
+This repo is for the 'Random Quote Machine' project from the Front End Development Libraries Projects on [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
 You can view this project on my github pages: https://duncan-s-white.github.io/random-quote-machine/
 
