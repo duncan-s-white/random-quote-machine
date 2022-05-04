@@ -10,4 +10,4 @@ It uses:
 
  - Bootstrap CSS framework for styling.
  - Class components.
- - Redux. The tutorials on Freecodecamp for React are paired with Redux and therefore, although not necessary, I used this as this was the pattern I was familiar with.
+ - Redux. The tutorials on Freecodecamp for React are paired with Redux and therefore, although not necessary I used this as this was the pattern I was familiar with.
